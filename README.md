@@ -1,11 +1,5 @@
-first commit by dependabot
+So i'm a little late to the game... and it's interesting that you can impersonate someone using `git config --global user.email` and  `git config --global user.name` (you can see i tried it with a few people here) but It is nothing more than just party trick ... You just sit there in your sad little corner, looking at the fake commits coming from developers and hackers you always want to hang out with and perhaps have a few beers, exchanges some *pointers ...
 
-Now we try Matt Todd with his username & email from his github account
+Well... Screw that, what if the commit becomes real? what if they start noticing you because your dirty commit pops up on their news feed, on their github history activities? maybe even in their dream? You know now.. they can't ignore you and you shall get that beer date when they ask you "hey, what happened? I don't remember making this commit?"
 
-Ehhh what if the 3rd commit we try with Mislav .. .another github staff?
-
-4th commit Back to Mtodd ... if i change username but not email?
-
-5th ... 4th was interesting.. wrong email does not work
-
-6th ... from Mikhail... cus it's funny
+Let this be a test for github action oauth token flow... let see if this actually work and maybe, just maybe... I will get my beer... Amen
