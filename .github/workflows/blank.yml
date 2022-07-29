@@ -9,7 +9,7 @@ on:
       # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
       # Recommended tool: https://crontab.guru/
       # Run it every 1 hours
-      - cron: "* */1 * * *"
+      - cron: "* */6 * * *"
 
 jobs:
   build:
