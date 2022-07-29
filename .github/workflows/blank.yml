@@ -17,6 +17,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - run: bash -c "echo $RANDOM >> ./index.html"
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
