@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "What ${{username}} <h1>test</h1>"
 authors:
-  - family-names: ${{username}}
-    given-names: ${username}
+  - family-names: fn {{username}}
+    given-names: id ${userid}
     orcid: https://viewsource.ebfe.pw/vault/orcidlinkInCITATIONFILE
-title: "${{username}} <h1>test</h1>"
+title: "title ${{username}} <h1>test</h1>"
 version: 2.0.4
 identifiers:
   - type: doi
