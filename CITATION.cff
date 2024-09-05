@@ -1,12 +1,12 @@
 cff-version: 1.2.0
-message: "What ${username} ${userid} <h1>test</h1>"
+message: "What %userid% ${username} %{userid} <h1>test</h1>\"**test**" 
 authors:
-  - family-names: fn ${username} %{userid}
+  - family-names: fn ${7*7} {{7*7}} #{7*7}
     given-names: id ${userid}
     orcid: https://viewsource.ebfe.pw/vault/orcidlinkInCITATIONFILE
-title: "title ${{username}} <h1>test</h1>"
+title: "title ${{username}} <h1>\"test</h1> <!-- blah -->"
 version: 2.0.4
 identifiers:
   - type: doi
     value: 10.5281/zenodo.1234
-date-released: 2021-08-11
+date-released: 2090-08-11
